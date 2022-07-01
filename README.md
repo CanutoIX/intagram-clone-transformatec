@@ -1,1 +1,0 @@
-# intagram-clone-transformatec
